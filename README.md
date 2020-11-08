@@ -36,4 +36,4 @@ Latihan membuat tipe data, variable dan operator pada python
 <img width="501" alt="lab2" src="https://user-images.githubusercontent.com/72985112/98256997-c5045500-1fb1-11eb-9194-4e7298de27d3.png">
 
 > Hasil run
-<img width="603" alt="run lab2" src="https://user-images.githubusercontent.com/72985112/98257054-d188ad80-1fb1-11eb-907a-fb582c77424d.png">
+<img width="603" alt="run lab2" src="https://user-images.githubusercontent.com/48075659/98464971-e1de9980-21f8-11eb-89e5-3180e705ed85.png">
