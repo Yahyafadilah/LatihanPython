@@ -20,7 +20,7 @@ Latihan membuat tipe data, variable dan operator pada python
 <img width="289" alt="Penggunaan separator" src="https://user-images.githubusercontent.com/72985112/98256133-c8e3a780-1fb0-11eb-81c6-8d6cf33d5364.png">
 
 > Hasil run
-<img width="380" alt="Run separator" src="https://user-images.githubusercontent.com/72985112/98256173-d39e3c80-1fb0-11eb-9d28-2951b68a26ad.png">
+<img width="380" alt="Run lab1" src="https://user-images.githubusercontent.com/48075659/98465041-36821480-21f9-11eb-9262-e3efa54bcb45.png">
 
 3. String Format
 <img width="546" alt="String Format" src="https://user-images.githubusercontent.com/72985112/98256230-e3b61c00-1fb0-11eb-8975-aba6146602a2.png">
