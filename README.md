@@ -6,10 +6,6 @@
 
 **Kelas   : TI.20.B2**
 
-- Pertemuan 5 - Latihan Biodata : [https://github.com/Yahyafadilah/Biodata](url)
-- Pertemuan 6 - Lab 1              : [https://github.com/Yahyafadilah/LatihanPython/blob/main/lab1.py](url)
-- Pertemuan 6 - Lab 2	         : [https://github.com/Yahyafadilah/LatihanPython/blob/main/lab2.py](url)
-
 
 **Pertemuan 6 - Lab 1**
 Latihan membuat tipe data, variable dan operator pada python
