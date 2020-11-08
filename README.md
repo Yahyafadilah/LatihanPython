@@ -14,7 +14,7 @@ Latihan membuat tipe data, variable dan operator pada python
 <img width="338" alt="Penggunaan end" src="https://user-images.githubusercontent.com/72985112/98256035-ab164280-1fb0-11eb-9150-aac7d4cc6b04.png">
 
 > Hasil run
-<img width="590" alt="Run end" src="https://user-images.githubusercontent.com/72985112/98256075-b79a9b00-1fb0-11eb-80eb-b85de161df0c.png">
+<img width="590" alt="Run end" src="https://https://user-images.githubusercontent.com/48075659/98465121-a4c6d700-21f9-11eb-9c69-40753f1a32ba.png">
 
 2. Penggunaan separator
 <img width="289" alt="Penggunaan separator" src="https://user-images.githubusercontent.com/72985112/98256133-c8e3a780-1fb0-11eb-81c6-8d6cf33d5364.png">
